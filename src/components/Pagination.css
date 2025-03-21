@@ -5,7 +5,7 @@
 }
 
 .pagination_button1 {
-    background-image: url(./izquierda.png);
+    background-image: url(/izquierda.png);
     width: 100px; 
     height: 30px;
     width: 100px; 
@@ -20,7 +20,7 @@
 }
 
 .pagination_button2 {
-    background-image: url(./derecha.png);
+    background-image: url(/derecha.png);
     width: 30px; 
     height: 30px; 
     width: 100px; 
@@ -36,4 +36,3 @@
     color: white;
     padding: 25px;
 }
-
