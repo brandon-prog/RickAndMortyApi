@@ -1,0 +1,39 @@
+.pagination {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.pagination_button1 {
+    background-image: url(./izquierda.png);
+    width: 100px; 
+    height: 30px;
+    width: 100px; 
+    height: 50px;
+    background-color: transparent;  
+    border: none;  
+    cursor: pointer;
+    background-size: cover;  
+    background-position: center; 
+
+
+}
+
+.pagination_button2 {
+    background-image: url(./derecha.png);
+    width: 30px; 
+    height: 30px; 
+    width: 100px; 
+    height: 50px;
+    background-color: transparent;
+    border: none; 
+    cursor: pointer;
+    background-size: cover;  
+    background-position: center; 
+}
+
+.pagination_span{
+    color: white;
+    padding: 25px;
+}
+

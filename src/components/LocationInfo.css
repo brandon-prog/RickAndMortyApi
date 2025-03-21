@@ -1,0 +1,40 @@
+.location {
+    padding: 2em 1em;    
+    display: grid;
+    place-content: center;
+}
+
+.location_container {
+    max-width: 600px;
+    min-width: 300px;
+    width: 100%;
+    border: solid green;
+    padding: 1em;
+    border-radius: 15px;
+    box-shadow: 5px 5px 0 0 green;
+}
+.location_name {
+    color: green;
+    text-align: center;
+}
+
+.location_info {
+list-style: none;
+padding: 0;
+margin: 0;
+display: flex;
+justify-content: space-between;
+gap: 1rem;
+}
+
+.location_item {
+    color: #999;
+    text-align: center;
+    font-size: small;
+}
+.location_span {
+display: block;
+color: green;
+font-weight: 700;
+font-size: medium;
+}
